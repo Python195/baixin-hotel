@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "CodeInput": "../../components/CodeInput/CodeInput",
+    "discountCard": "../../components/discountCard/discountCard"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "discountCard": "../../components/discountCard/discountCard"
+  },
+  "navigationBarTitleText": "优惠券",
+  "backgroundColor": "#FFFAFA"
+}
